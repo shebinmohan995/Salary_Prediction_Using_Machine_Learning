@@ -66,6 +66,10 @@ pip install -r requirements.txt
 
 streamlit run salary.py
 
+## Live Demo
+
+[Click here to try the Salary Prediction App](https://salarypredictionusingmachinelearning-pl4evkbki6hwtapjnq2x3f.streamlit.app/)
+
 Conclusion
 
 This project helped me understand the fundamentals of Machine Learning, Linear Regression, model evaluation, and deployment using Streamlit.
