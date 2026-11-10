@@ -49,11 +49,11 @@ Screenshots
 
 Salary Prediction Application
 
-"Salary Prediction" (Screenshots/Salary_Prediction.png)
+"Salary Prediction" (Screenshot%202026-11-10%20143449.png)
 
 Experience vs Predicted Salary
 
-"Salary Graph" (Screenshots/Salary_Graph.png)
+"Salary Graph" (Screenshot%202026-11-10%20143507.png)
 
 How to Run
 
